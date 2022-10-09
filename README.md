@@ -7,6 +7,9 @@
   <a href="../../../?tab=repositories&q=&type=&language=c&sort=" >
     <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   </a>
+  <a href="../../../?tab=repositories&q=&type=&language=c%23&sort=" >
+    <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  </a>
   <a href="../../../?tab=repositories&q=&type=&language=c%2B%2B&sort=" >
     <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   </a>
