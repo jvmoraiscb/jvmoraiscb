@@ -39,9 +39,17 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "prettier.semi": false,
 
-  "[csharp]": {
-    "editor.defaultFormatter": "ms-dotnettools.csharp"
+  "[c]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
   },
-  "omnisharp.path": "latest",
-  "omnisharp.useModernNet": false
+  "[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 0}"
+
+  // "[csharp]": {
+  //   "editor.defaultFormatter": "ms-dotnettools.csharp"
+  // },
+  // "omnisharp.path": "latest",
+  // "omnisharp.useModernNet": false
 }
