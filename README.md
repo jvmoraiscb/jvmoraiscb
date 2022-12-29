@@ -5,12 +5,12 @@
       <img
         width="49%"
         height="195px"
-        src="https://github-readme-stats.vercel.app/api?username=jvmoraiscb&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=a954d6&icon_color=a954d6&text_color=a954d6&bg_color=ffffff00"
+        src="https://github-readme-stats.vercel.app/api?username=jvmoraiscb&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=296d98&icon_color=296d98&text_color=ffffff&bg_color=ffffff00"
       />
       <img
         width="41%"
         height="195px"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvmoraiscb&layout=compact&langs_count=8&hide_border=true&title_color=a954d6&text_color=a954d6&bg_color=ffffff00"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvmoraiscb&layout=compact&langs_count=8&hide_border=true&title_color=296d98&text_color=ffffff&bg_color=ffffff00"
       />
     </a>
     <p align="justify">
