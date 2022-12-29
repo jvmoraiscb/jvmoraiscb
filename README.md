@@ -13,7 +13,7 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvmoraiscb&layout=compact&langs_count=8&hide_border=true&title_color=a954d6&text_color=a954d6&bg_color=ffffff00"
       />
     </a>
-    <p align="justify">
+    <h4 align="justify">
       I'm currently 19 years old and I'm coursing Computer Engineering at
       <a href="https://www.ufes.br/">
         Federal University of Espírito Santo (UFES) </a
@@ -27,7 +27,7 @@
       subject or some book I found in the library. In addition, I have several
       projects in different languages ​​that can be accessed using the buttons
       below:
-    </p>
+    </h4>
   </div>
   <div style="display: inline_block" align="center">
     <a href="../../../?tab=repositories&q=&type=&language=c&sort=">
