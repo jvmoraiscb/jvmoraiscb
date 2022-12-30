@@ -116,7 +116,7 @@
   <div align="justify">
     <br />
     <p>
-      I'm still not an expert in any language/technology, but I'm easy to learn
+      I'm still not an expert in any language/technology, but I'm eager to learn
       and master (with the necessary time) any new challenge that is proposed.
       <br /><br />
       If you're interested and want to get in touch with me, or even just take a
