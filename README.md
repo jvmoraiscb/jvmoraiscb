@@ -23,7 +23,7 @@
       <a href="../../../?tab=repositories&q=learning&type=&language=&sort="
         >here</a
       >
-      and usually represent the languages ​​I'm working on in some college
+      and usually represent the languages ​​I'm working on at some college
       subject or some book I found in the library. In addition, I have several
       projects in different languages ​​that can be accessed using the buttons
       below:
@@ -117,9 +117,9 @@
     <br />
     <p>
       I'm still not an expert in any language/technology, but I'm eager to learn
-      and master (with the necessary time) any new challenge that is proposed.
+      and master (with the necessary time) any new challenge that may be proposed.
       <br /><br />
-      If you're interested and want to get in touch with me, or even just take a
+      If you're interested and would like to get in touch with me, or even just take a
       look at my portfolio, visit <a href="#">jvmoraiscb.com</a> (under
       construction) <br /><br />
       Or find me on some other social network
