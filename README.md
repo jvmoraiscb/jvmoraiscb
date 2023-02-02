@@ -120,7 +120,7 @@
       and master (with the necessary time) any new challenge that may be proposed.
       <br /><br />
       If you're interested and would like to get in touch with me, or even just take a
-      look at my portfolio, visit <a href="#">jvmoraiscb.com</a> (under
+      look at my portfolio, visit <a href="#"><s>jvmoraiscb.com</s></a> (under
       construction) <br /><br />
       Or find me on some other social network
     </p>
