@@ -142,10 +142,5 @@
         src="https://img.shields.io/badge/-Youtube-%23E4405F?style=for-the-badge&logo=youtube&logoColor=white"
         target="_blank"
     /></a>
-    <a href="https://linktr.ee/jvmoraiscb" target="_blank"
-      ><img
-        src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"
-        target="_blank"
-    /></a>
   </div>
 </div>
