@@ -14,19 +14,16 @@
       />
     </a>
     <p align="justify">
-      I'm currently 19 years old and I'm coursing Computer Engineering at
+      I am currently 19 years old and I am studying Computer Engineering at the
       <a href="https://www.ufes.br/">
         Federal University of Espírito Santo (UFES) </a
       >. <br /><br />
-      In case you're interested, all my learning repositories can be accessed by
-      clicking
+      In case you're interested, you can access all of my learning repositories by clicking 
       <a href="../../../?tab=repositories&q=learning&type=&language=&sort="
-        >here</a
+        >here.</a
       >
-      and usually represent the languages ​​I'm working on at some college
-      subject or some book I found in the library. In addition, I have several
-      projects in different languages ​​that can be accessed using the buttons
-      below:
+      <br />
+      These repositories usually represent the languages ​​I am studying for some college subject or some book I found in the library. Additionally, I have several projects in different languages that can be accessed using the buttons below:
     </p>
   </div>
   <div style="display: inline_block" align="center">
@@ -116,13 +113,11 @@
   <div align="justify">
     <br />
     <p>
-      I'm still not an expert in any language/technology, but I'm eager to learn
-      and master (with the necessary time) any new challenge that may be proposed.
+      I am not yet an expert in any language/technology, but I am eager to learn and master any new challenge that may be proposed (with the necessary time).
       <br /><br />
-      If you're interested and would like to get in touch with me, or even just take a
-      look at my portfolio, visit <a href="#"><s>jvmoraiscb.com</s></a> (under
+      If you are interested in getting in touch with me, or just taking a look at my portfolio, please visit <a href="#" target="_blank"><s>jvmoraiscb.com</s></a> (currently under
       construction) <br /><br />
-      Or find me on some other social network
+      Alternatively, you can find me on some other social network:
     </p>
   </div>
 
