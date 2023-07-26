@@ -1,50 +1,27 @@
 {
-  "workbench.colorTheme": "Dark-Dracula",
-  "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorCustomizations": {
-    "[Dark-Dracula]": {
-      "editor.background": "#0c0c0c",
-      "editor.selectionBackground": "#1b1b1b",
-      "editor.lineHighlightBackground": "#161616",
-
-      "activityBar.activeBackground": "#141313",
-      "activityBar.background": "#0e0d0d",
-      "activityBar.border": "#0e0d0d",
-      "activityBar.inactiveForeground": "#ffffff",
-
-      "tab.activeBackground": "#0c0c0c",
-      "tab.hoverBackground": "#302e2e",
-      "tab.activeForeground": "#ffffff",
-      "tab.inactiveBackground": "#272727",
-      "tab.border": "#000000",
-      "tab.hoverForeground": "#ffffff",
-      "tab.inactiveForeground": "#ffffff",
-      "editorGutter.background": "#0e0e0e",
-      "titleBar.activeBackground": "#000000",
-
-      "sideBar.background": "#141313",
-      "sideBarSectionHeader.background": "#000000",
-
-      "statusBar.background": "#000000",
-      "statusBarItem.remoteBackground": "#0f7bf7",
-      "statusBarItem.remoteForeground": "#ffffff"
-    }
-  },
-  "files.autoSave": "afterDelay",
-  "editor.minimap.enabled": false,
   "workbench.startupEditor": "none",
-  "editor.formatOnSave": true,
-  "editor.tabSize": 2,
+  "files.autoSave": "afterDelay",
   "editor.wordWrap": "on",
+  "editor.insertSpaces": true,
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
 
+  // pitch-black extension
+  "workbench.colorTheme": "Pitch Black",
+
+  // material-icon extension
+  "workbench.iconTheme": "material-icon-theme",
+
+  // prettier extension
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "prettier.semi": false,
 
+  // cpp extension
   "[c]": {
     "editor.defaultFormatter": "ms-vscode.cpptools"
   },
   "[cpp]": {
     "editor.defaultFormatter": "ms-vscode.cpptools"
   },
-  "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 2, ColumnLimit: 0}"
+  "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 0}"
 }
