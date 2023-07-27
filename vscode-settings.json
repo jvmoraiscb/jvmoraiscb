@@ -47,16 +47,16 @@
 
         // Text selection
         "editor.selectionBackground": "#1b1b1b",
-        "editor.selectionHighlightBackground": "#007acc",
-        "editor.inactiveSelectionBackground": "#007acc",
+        "editor.selectionHighlightBackground": "#1b1b1b",
+        "editor.inactiveSelectionBackground": "#1b1b1b",
         // "editor.selectionForeground": "#f00", // Currently only works in high contrast themes, but making the theme high contrast messes with a lot of other things.
 
         // Find results
         "editor.findMatchBackground": "#fa05",
         "editor.findMatchHighlightBackground": "#fa05",
-        "editor.findMatchBorder": "#fe0",
-        "editor.findMatchHighlightBorder": "#fe0",
-        "editor.selectionHighlightBorder": "#fe0",
+        "editor.findMatchBorder": "#1b1b1b",
+        "editor.findMatchHighlightBorder": "#ffffff",
+        "editor.selectionHighlightBorder": "#ffffff",
 
         // Title bar (requires "window.titleBarStyle": "custom" in settings)
         "titleBar.activeBackground": "#000",
