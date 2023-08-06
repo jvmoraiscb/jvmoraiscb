@@ -23,7 +23,7 @@
         >here.</a
       >
       <br />
-      These repositories usually represent the languages ​​I am studying for some college subject or some book I found in the library. Additionally, I have several projects in different languages that can be accessed using the buttons below:
+      These repositories usually represent the languages ​​I am studying for some college subject or some book I found in the library. Additionally, I have some projects in different languages ​​that can be accessed through the buttons below:
     </p>
   </div>
   <div style="display: inline_block" align="center">
