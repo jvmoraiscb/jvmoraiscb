@@ -26,20 +26,24 @@
     // https://www.jetbrains.com/lp/mono/
     "editor.fontFamily": "JetBrains Mono",
 
-    // esbenp.prettier-vscode
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "prettier.semi": false,
-    "prettier.tabWidth": 4,
-
-    // ms-vscode.cpptools-extension-pack
-    "[c]": { "editor.defaultFormatter": "ms-vscode.cpptools" },
-    "[cpp]": { "editor.defaultFormatter": "ms-vscode.cpptools" },
-    "C_Cpp.clang_format_fallbackStyle": "{ BaseOnStyle: Google, IdentWidth: 4, ColumnLimit: 0 }",
-
     // miguelsolorio.symbols
     "workbench.iconTheme": "symbols",
     "symbols.hidesExplorerArrows": false,
 
     // miguelsolorio.min-theme
     "workbench.colorTheme": "Min Dark"
+
+    // esbenp.prettier-vscode
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "prettier.semi": false,
+    "prettier.tabWidth": 4,
+
+    // ms-vscode.cpptools
+    "[c]": { "editor.defaultFormatter": "ms-vscode.cpptools" },
+    "[cpp]": { "editor.defaultFormatter": "ms-vscode.cpptools" },
+    "C_Cpp.clang_format_fallbackStyle": "{ BaseOnStyle: Google, IdentWidth: 4, ColumnLimit: 0 }",
+
+    // ms-iot.vscode-ros
+    "C_Cpp.default.includePath": ["${default}", "/opt/ros/humble/include/**"],
+    "ros.distro": "humble",
 }
