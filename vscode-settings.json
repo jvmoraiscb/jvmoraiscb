@@ -27,11 +27,8 @@
     "editor.fontFamily": "JetBrains Mono",
 
     // miguelsolorio.symbols
-    "workbench.iconTheme": "symbols",
+    "workbench.iconTheme": "material-icon-theme",
     "symbols.hidesExplorerArrows": false,
-
-    // miguelsolorio.min-theme
-    "workbench.colorTheme": "Min Dark"
 
     // esbenp.prettier-vscode
     "editor.defaultFormatter": "esbenp.prettier-vscode",
@@ -46,4 +43,7 @@
     // ms-iot.vscode-ros
     "C_Cpp.default.includePath": ["${default}", "/opt/ros/humble/include/**"],
     "ros.distro": "humble",
+
+    // visualstudiotoolsforunity.vstuc
+    "dotnet.defaultSolution": "disable"
 }
