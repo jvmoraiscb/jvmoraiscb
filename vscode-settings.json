@@ -26,8 +26,11 @@
     // https://www.jetbrains.com/lp/mono/
     "editor.fontFamily": "JetBrains Mono",
 
+    // miguelsolorio.min-theme
+    "workbench.colorTheme": "Min Dark",
+
     // miguelsolorio.symbols
-    "workbench.iconTheme": "material-icon-theme",
+    "workbench.iconTheme": "symbols",
     "symbols.hidesExplorerArrows": false,
 
     // esbenp.prettier-vscode
