@@ -1,5 +1,5 @@
 <div>
-  <h2>Hi, I'm João 👋</h2>
+  <h2>Hi, I'm João Victor 👋</h2>
   <div align="center">
     <a href="https://github.com/jvmoraiscb">
       <img
@@ -14,9 +14,9 @@
       />
     </a>
     <p align="justify">
-      I am currently 20 years old and I am studying Computer Engineering at the
+      I am currently 21 years old and I am studying Computer Engineering at the
       <a href="https://www.ufes.br/">
-        Federal University of Espírito Santo (UFES) </a
+        Federal University of Espírito Santo (Ufes) </a
       >. <br /><br />
       In case you're interested, you can access all of my learning repositories by clicking 
       <a href="../../../?tab=repositories&q=learning&type=&language=&sort="
@@ -116,26 +116,7 @@
       I am not yet an expert in any language/technology, but I am eager to learn and master any new challenge that may be proposed (with the necessary time).
       <br /><br />
       If you are interested in getting in touch with me, or just taking a look at my portfolio, please visit <a href="#" target="_blank"><s>jvmoraiscb.com</s></a> (currently under
-      construction) <br /><br />
-      Alternatively, you can find me on some other social network:
+      construction).
     </p>
-  </div>
-
-  <div>
-    <a href="https://instagram.com/jvmoraiscb" target="_blank"
-      ><img
-        src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        target="_blank"
-    /></a>
-    <a href="https://www.linkedin.com/in/jvmoraiscb/" target="_blank"
-      ><img
-        src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        target="_blank"
-    /></a>
-    <a href="https://www.youtube.com/@jvmoraiscb" target="_blank"
-      ><img
-        src="https://img.shields.io/badge/-Youtube-%23E4405F?style=for-the-badge&logo=youtube&logoColor=white"
-        target="_blank"
-    /></a>
   </div>
 </div>

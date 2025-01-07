@@ -1,71 +1,53 @@
 {
-    "workbench.startupEditor": "none",
+    "window.zoomLevel": 0,
+    "window.newWindowDimensions": "fullscreen",
+    "window.restoreFullscreen": true,
+    "explorer.compactFolders": false,
     "files.autoSave": "afterDelay",
+    "breadcrumbs.enabled": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.sideBar.location": "right",
+    "workbench.activityBar.location": "hidden",
+    "workbench.statusBar.visible": false,
+    "workbench.editor.labelFormat": "short",
     "editor.tabSize": 4,
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.8,
+    "editor.renderLineHighlight": "gutter",
     "editor.wordWrap": "on",
     "editor.insertSpaces": true,
     "editor.formatOnSave": true,
     "editor.minimap.enabled": false,
+    "editor.scrollbar.vertical": "hidden",
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.semanticHighlighting.enabled": false,
+    "extensions.ignoreRecommendations": true,
+    "telemetry.telemetryLevel": "off",
 
-    "workbench.iconTheme": "material-icon-theme",
+    // https://www.jetbrains.com/lp/mono/
+    "editor.fontFamily": "JetBrains Mono",
 
+    // miguelsolorio.min-theme
+    "workbench.colorTheme": "Min Dark",
+
+    // miguelsolorio.symbols
+    "workbench.iconTheme": "symbols",
+    "symbols.hidesExplorerArrows": false,
+
+    // esbenp.prettier-vscode
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "prettier.semi": false,
     "prettier.tabWidth": 4,
 
-    "workbench.colorCustomizations": {
-        "editor.foreground": "#d4d4d4",
-        "sideBarTitle.foreground": "#d4d4d4",
-        "sideBar.foreground": "#d4d4d4",
-        "statusBar.foreground": "#ccc",
+    // ms-vscode.cpptools
+    "[c]": { "editor.defaultFormatter": "ms-vscode.cpptools" },
+    "[cpp]": { "editor.defaultFormatter": "ms-vscode.cpptools" },
+    "C_Cpp.clang_format_fallbackStyle": "{ BaseOnStyle: Google, IdentWidth: 4, ColumnLimit: 0 }"
 
-        "tab.activeForeground": "#fff",
-        "tab.unfocusedActiveForeground": "#fff",
-        "tab.inactiveForeground": "#9c9c9c",
-        "tab.unfocusedInactiveForeground": "#9c9c9c",
-        "tab.activeBackground": "#000",
-        "tab.unfocusedActiveBorder": "#000",
-        "tab.inactiveBackground": "#000",
-        "tab.activeBorder": "#000",
-        "tab.border": "#000",
-        "editorGroupHeader.tabsBorder": "#000",
+    // ms-iot.vscode-ros
+    //"C_Cpp.default.includePath": ["${default}", "/opt/ros/humble/include/**"],
+    //"ros.distro": "humble",
 
-        "editor.selectionBackground": "#1b1b1b",
-        "editor.selectionHighlightBackground": "#1b1b1b",
-        "editor.inactiveSelectionBackground": "#1b1b1b",
-
-        "editor.findMatchBackground": "#fa05",
-        "editor.findMatchHighlightBackground": "#fa05",
-        "editor.findMatchBorder": "#1b1b1b",
-        "editor.findMatchHighlightBorder": "#ffffff",
-        "editor.selectionHighlightBorder": "#ffffff",
-
-        "titleBar.activeBackground": "#000",
-        "titleBar.inactiveBackground": "#000",
-        "titleBar.border": "#000",
-        "titleBar.activeForeground": "#ccc",
-        "titleBar.inactiveForeground": "#ccc",
-
-        "scrollbarSlider.background": "#fff2",
-        "scrollbarSlider.hoverBackground": "#fff3",
-        "scrollbarSlider.activeBackground": "#fff4",
-
-        "editor.background": "#000",
-        "statusBar.background": "#000",
-        "statusBar.noFolderBackground": "#000",
-        "editorGroup.emptyBackground": "#000",
-        "editorGroup.dropBackground": "#000",
-        "editorGroupHeader.noTabsBackground": "#000",
-        "editorGroupHeader.tabsBackground": "#000",
-        "activityBarBadge.background": "#000",
-        "activityBar.background": "#000",
-        "editorWhitespace.foreground": "#000",
-        "sideBar.background": "#000",
-
-        "editorRuler.foreground": "#222",
-        "sideBar.border": "#000",
-        "editorGroup.border": "#000",
-        "editorIndentGuide.background": "#000",
-        "editorIndentGuide.activeBackground": "#000"
-    }
+    // visualstudiotoolsforunity.vstuc
+    //"dotnet.defaultSolution": "disable"
 }
