@@ -1,20 +1,8 @@
 <div>
   <h2>Hi, I'm João Victor 👋</h2>
   <div align="center">
-    <a href="https://github.com/jvmoraiscb">
-      <img
-        width="49%"
-        height="195px"
-        src="https://github-readme-stats.vercel.app/api?username=jvmoraiscb&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=296d98&icon_color=296d98&text_color=ffffff&bg_color=ffffff00"
-      />
-      <img
-        width="41%"
-        height="195px"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvmoraiscb&layout=compact&langs_count=8&hide_border=true&title_color=296d98&text_color=ffffff&bg_color=ffffff00"
-      />
-    </a>
     <p align="justify">
-      I am currently 21 years old and I am studying Computer Engineering at the
+      I am currently 22 years old and I am studying Computer Engineering at the
       <a href="https://www.ufes.br/">
         Federal University of Espírito Santo (Ufes) </a
       >. <br /><br />
@@ -115,7 +103,7 @@
     <p>
       I am not yet an expert in any language/technology, but I am eager to learn and master any new challenge that may be proposed (with the necessary time).
       <br /><br />
-      If you are interested in getting in touch with me, or just taking a look at my portfolio, please visit <a href="#" target="_blank"><s>jvmoraiscb.com</s></a> (currently under
+      If you are interested in getting in touch with me, or just taking a look at my portfolio, please visit <a href="#" target="_blank"><s>jvmoraiscb.com.br</s></a> (currently under
       construction).
     </p>
   </div>
