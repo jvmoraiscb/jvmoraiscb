@@ -2,14 +2,10 @@
   <h2>Hi, I'm João Victor 👋</h2>
   <div align="center">
     <p align="justify">
-      I am currently 22 years old and I am studying Computer Engineering at the
-      <a href="https://www.ufes.br/">
-        Federal University of Espírito Santo (Ufes) </a
-      >. <br /><br />
       In case you're interested, you can access all of my learning repositories by clicking 
       <a href="../../../?tab=repositories&q=learning&type=&language=&sort="
-        >here.</a
-      >
+        >here.
+      </a>
       <br />
       These repositories usually represent the languages ​​I am studying for some college subject or some book I found in the library. Additionally, I have some projects in different languages ​​that can be accessed through the buttons below:
     </p>
